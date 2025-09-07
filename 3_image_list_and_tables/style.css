@@ -1,0 +1,26 @@
+td{
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+
+    /* 
+    border : Define the style, width, and color of the border 
+    padding : Space between the content and the border
+    text-align : Aligns the text to the center
+    background-color : Sets the background color of the cell
+    font-size : Sets the size of the font
+    font-family : Specifies the font type
+    color : Sets the color of the text
+    font-weight : Makes the text bold
+    border-radius : Rounds the corners of the border
+    box-shadow : Adds a shadow effect to the cell 
+    */
+
+}

@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(112, 209, 241);
+    color : brown;   
+}
+
+/* body : selects the entire body of the HTML document
+    background-color : sets the background color of the body
+    color : sets the text color for the body
+*/
